@@ -36,5 +36,3 @@ This is a **beginner-friendly DevOps/Kubernetes practice project** designed to u
 | Minikube | Local Kubernetes cluster |
 
 ---
-
-# 📂 Project Structure
